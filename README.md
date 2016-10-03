@@ -1,6 +1,7 @@
 # MyoAndroidPluginForUnity
 Myo plugin for Unity Android.
-This plugin enables you to build Android application in a simillar way with the method describe in http://grimpixelstudios.com/getting-the-myo-armband-to-work-with-unity-on-android/
+This plugin enables you to build Android application in a simillar way with the method describe in http://grimpixelstudios.com/getting-the-myo-armband-to-work-with-unity-on-android/  
+but you don't need to export Android project. You can build apk directly from Unity.  
 
 Currently, wrapped methods are very limited. You can get Myo orientation, pose, and connect/disconnect.
 C# implementation inside Unity sample is way ugly, in order to keep compatibility with original Mac SDK.
